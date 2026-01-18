@@ -1,0 +1,8 @@
+{
+  "name": "SAKURA CORE AI",
+  "description": "Uma Inteligência Artificial de nível Master projetada para engenharia de software, código profissional e arquitetura de sistemas com estética minimalista japonesa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
